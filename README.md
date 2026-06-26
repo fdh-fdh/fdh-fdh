@@ -1,57 +1,45 @@
-# Donghao Fang (方东昊)
+# Donghao Fang
 
-M.Sc. CSE @ TUM | AI Infrastructure
-Donghao.fang@tum.de
-[LinkedIn](https://www.linkedin.com/in/donghao-fang-137b0025a/)
+> **M.Sc. Computational Science & Engineering @ TUM**  
+> Building toward AI Infrastructure
 
-
----
-
-## 🗂️ What I'm Building Here
-
-This is my long-term learning journal.  
-Organized by topic, grown over time.
-
-### 🐧 Systems & Infrastructure
-> Linux internals, containers, orchestration, networking
-
-Exploring how modern infrastructure actually works under the hood —
-from kernel modules to Kubernetes to DNS resolution.
-
-### ⚡ GPU & Kernel Programming
-> CUDA · Triton · JAX · XLA · SIMD
-
-Low-level compute programming.
-How code becomes fast on real hardware.
-
-### 🤖 LLM Infrastructure
-> vLLM · Slang · Inference Systems
-
-Understanding and experimenting with the systems that serve large models.
-
-### 🔢 Numerical Programming
-> PDEs · HPC · OpenMP · MPI
-
-Scientific computing, parallel simulation, and numerical methods.
-Roots in my CSE curriculum, growing outward.
-
-### 💡 Ideas & Scratchpad
-> Proofs of concept, half-finished thoughts, things I want to try
+📧 Donghao.fang@tum.de · 🔗 [LinkedIn](https://www.linkedin.com/in/donghao-fang-137b0025a/)
 
 ---
 
-## 🏆 Hackathons
+## 🎯 Direction
 
-| Year | Event | Topic | Project |
-|------|-------|-------|---------|
-| 2026 | UDE Hackathon, Essen | AI for Good | — |
-
-*More to come.*
+```
+Systems  ·  GPU Kernels  ·  ML Compilers
+```
 
 ---
 
-## 📍 Currently Focusing On
+## 🔨 Currently Learning
 
-- XLA compilation pipeline & kernel fusion
-- GPU memory hierarchy & CUDA optimization
-- Parallel programming with OpenMP/MPI
+| | Area | Repo | Status |
+|-|------|------|--------|
+| 🐧 | Linux Internals | [linuxmooc](https://github.com/fdh-fdh/linuxmooc) | 🟡 Active |
+| ⚡ | CUDA | [LeetCUDA](https://github.com/fdh-fdh/LeetCUDA) | 🟡 Active |
+| ⚡ | XLA / JAX | [FromJax2Device_XLA](https://github.com/fdh-fdh/FromJax2Device_XLA) | 🟡 Active |
+| 🤖 | LLM Infrastructure | [AIInfra](https://github.com/fdh-fdh/AIInfra) | 🟡 Active |
+| 🔢 | Numerical Programming | — | 🔜 Soon |
+| 📐 | Algorithms | [Leetcode](https://github.com/fdh-fdh/algorithm-journey) | 🟡 Active |
+
+---
+
+## 💡 Ideas & Scratchpad
+
+| | Project | Repo |
+|-|---------|------|
+| 🪑 | Furniture Visualization | [Moebel_VIS](https://github.com/fdh-fdh/Moebel_VIS) |
+| 🏗️ | BIM-LIDAR Integration | [BIM-LIDAR](https://github.com/fdh-fdh/BIM-LIDAR-Integration) |
+| 🏆 | 2026 UDE Hackathon AI for Good | [RainAI](https://github.com/fdh-fdh/RainAI) |
+
+---
+*Always looking for the next one.*
+
+---
+
+<sub>🌱 Growing slowly and honestly · Last updated: 2026</sub>
+```
