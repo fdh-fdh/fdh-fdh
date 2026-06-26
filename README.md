@@ -10,7 +10,7 @@
 ## 🎯 Direction
 
 ```
-Systems  ·  GPU Kernels  ·  ML Compilers
+OpenMP  ·  CUDA   · vLLM
 ```
 
 ---
