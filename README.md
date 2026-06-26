@@ -41,5 +41,5 @@ OpenMP  ·  CUDA   · vLLM
 
 ---
 
-<sub>🌱 Growing slowly and honestly · Last updated: 2026</sub>
+<sub>🌱 Growing slowly and honestly · Last updated: 2025</sub>
 ```
