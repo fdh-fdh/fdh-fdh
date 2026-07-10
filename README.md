@@ -32,9 +32,12 @@ OpenMP  ·  CUDA   · vLLM
 
 | | Project | Repo |
 |-|---------|------|
-| 🪑 | Furniture Visualization | [Moebel_VIS](https://github.com/fdh-fdh/Moebel_VIS) |
-| 🏗️ | BIM-LIDAR Integration | [BIM-LIDAR](https://github.com/fdh-fdh/BIM-LIDAR-Integration) |
+| 🏆 | Helmholz GPU hackathon Idea | [AdaptiveSpec](https://github.com/fdh-fdh/Helmholz-GPUHack-AdaptiveSpec) |
+| 🏆 | Huawei Tech Arena 2026 | [AIDC Power Supply Resilience Prediction](https://github.com/fdh-fdh/Huawei-Tech-Arena-2026-AIDC-Power-Supply-Resilience) |
 | 🏆 | 2026 UDE Hackathon AI for Good | [RainAI](https://github.com/fdh-fdh/RainAI) |
+| 🪑 | Furniture Visualization | [Moebel_VIS](https://github.com/fdh-fdh/Moebel_VIS) |
+| 🤖 | BIM-LIDAR Integration | [BIM-LIDAR](https://github.com/fdh-fdh/BIM-LIDAR-Integration) |
+
 
 ---
 *Always looking for the next one.*
