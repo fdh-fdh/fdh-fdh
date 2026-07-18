@@ -32,6 +32,7 @@ OpenMP  ·  CUDA   · vLLM
 
 | | Project | Repo |
 |-|---------|------|
+| 🏆 | AI for future talent 2026 | [GreenPulse](https://github.com/fdh-fdh/Green-token-orchestrator) |
 | 🏆 | Helmholz GPU hackathon Idea | [AdaptiveSpec](https://github.com/fdh-fdh/Helmholz-GPUHack-AdaptiveSpec) |
 | 🏆 | Huawei Tech Arena 2026 | [AIDC Power Supply Resilience Prediction](https://github.com/fdh-fdh/Huawei-Tech-Arena-2026-AIDC-Power-Supply-Resilience) |
 | 🏆 | 2026 UDE Hackathon AI for Good | [RainAI](https://github.com/fdh-fdh/RainAI) |
